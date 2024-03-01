@@ -1,3 +1,8 @@
+# Retos de programación semanales 2024
+### Proyecto de retos semanales para practicar lógica de programación utilizando cualquier lenguaje.
+
+
+
 ## ✨ Ejercicios
 
 |  #   | Nombre del ejercicio         | Descripción                                                              | Ejemplo 1  | Ejemplo 2
