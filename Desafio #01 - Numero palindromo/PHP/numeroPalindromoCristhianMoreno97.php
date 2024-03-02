@@ -1,10 +1,7 @@
 <?php
 function is_palindrome($number)
 {
-    if ($number != strrev($number)) {
-        return false;
-    }
-    return true;
+    return $number == strrev($number);
 }
 
 echo '121: ' . (is_palindrome(121) ? 'Sí' : 'No') . "\n";
