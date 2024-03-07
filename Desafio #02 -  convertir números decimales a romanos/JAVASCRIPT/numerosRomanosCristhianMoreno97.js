@@ -59,9 +59,7 @@ function getRomanNumber(decimalNumber) {
     return romanNumber.join("")
 }
 
-console.log(`result: ${getRomanNumber(9)}`)
-console.log(`result: ${getRomanNumber(31)}`)
-console.log(`result: ${getRomanNumber(45)}`)
-console.log(`result: ${getRomanNumber(880)}`)
-console.log(`result: ${getRomanNumber(890)}`)
-console.log(`result: ${getRomanNumber(900)}`)
+
+const numbers = [9, 31, 45, 880, 890, 900]
+
+numbers.forEach(number => console.log(`${number}: ${getRomanNumber(number)}`))
