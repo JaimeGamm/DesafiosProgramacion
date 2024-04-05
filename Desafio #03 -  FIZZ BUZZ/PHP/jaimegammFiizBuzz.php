@@ -1,8 +1,3 @@
-
-Aquí tienes un programa en PHP que realiza lo que solicitas:
-
-php
-Copy code
 <?php
 for ($i = 1; $i <= 100; $i++) {
     if ($i % 3 == 0 && $i % 5 == 0) {
