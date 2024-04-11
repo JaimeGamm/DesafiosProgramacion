@@ -32,6 +32,6 @@ function intToRoman($num) {
 }
 
 // Ejemplo de uso
-$num = 58;
+$num = 100;
 echo intToRoman($num); // Salida: "LVIII"
 ?>
