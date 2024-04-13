@@ -1,6 +1,5 @@
 def es_palindromo(numero):
-    # Convierte el número a cadena para facilitar la manipulación de caracteres
-
+    
     str_numero = str(numero)
     if(str_numero == str_numero[::-1]):
 
