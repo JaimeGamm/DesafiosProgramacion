@@ -9,5 +9,5 @@ def es_palindromo(numero):
 
          print(f"  El {numero} no es un palíndromo")
 
-es_palindromo("23322")  
+es_palindromo("233322")  
 es_palindromo("212")  
